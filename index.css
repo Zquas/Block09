@@ -1,0 +1,11 @@
+.clearing{
+    font-family: DancingScript;
+    font-size: 20pt;
+    overflow: auto;
+    text-align: center;
+    font-style: bold;
+}
+
+#clear{
+    clear: left;
+}

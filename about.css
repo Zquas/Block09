@@ -1,0 +1,33 @@
+main{
+    float:left;
+    overflow: auto;
+}
+
+article{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+h2{
+    box-sizing: border-box;
+    border-style: solid;
+    width: 99%;
+    padding-left: 30px;
+    background: rgba(255, 253, 253, 0.75);
+}
+
+p{
+    box-sizing: border-box;
+    border-style: solid;
+    width: 99%;
+    display: flex;
+    background: rgba(255, 253, 253, 0.75);
+}
+
+article img {  
+    max-width: 150px;
+    max-height: 150px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
