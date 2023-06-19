@@ -31,6 +31,14 @@ body{
     font-family:'Times New Roman', Times, serif;
 }
 
+a:active {
+    color: yellow;
+}
+
+a:hover {
+    color: red;
+}
+
 footer{
     text-align: center;
     position: fixed;

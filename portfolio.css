@@ -31,3 +31,7 @@ article img {
     padding-top: 5px;
     padding-bottom: 5px;
 }
+
+footer{
+    background: rgba(29, 114, 184, 0.75);
+}
